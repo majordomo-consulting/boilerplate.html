@@ -22,48 +22,6 @@ way that you want.
 * Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 * Twitter: [@h5bp](https://twitter.com/h5bp)
 
-## Quick start
-
-Choose one of the following options:
-
-* Download the latest stable release from
-  [html5boilerplate.com](https://html5boilerplate.com/). This zip file is a
-  snapshot of the `dist` folder. On Windows, Mac and from the file manager on
-  Linux unzipping this folder will output to a folder named something like
-  `html5-boilerplate_v7.3.0`. From the command line will need to create a
-  folder and unzip the contents into that folder.
-
-  ```bash
-  mkdir html5-boilerplate
-  unzip html5-boilerplate*.zip -d html5-boilerplate
-  ```
-
-* Clone the git repo — `git clone
-  https://github.com/h5bp/html5-boilerplate.git` - and checkout the
-  [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
-  you'd like to use. The `dist` folder represents the latest version of the
-  project for end users.
-
-* Install with [npm](https://www.npmjs.com/): `npm install html5-boilerplate`
-  or [yarn](https://yarnpkg.com/): `yarn add html5-boilerplate`. The resulting
-  `node_modules/html5-boilerplate/dist` folder represents the latest version of
-  the project for end users. Depending on what you want to use and how you want
-  to use it, you may have to copy and paste the contents of that folder into
-  your project directory.
-
-* Using our new [create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate)
-  project, instantly fetch the latest npm published package (or any version
-  available on npm) with `npx`, `npm init` or `yarn create` without having to
-  install any dependencies. Running the following `npx` command installs the
-  latest version into a folder called `new-site`
-
-  ```
-  npx create-html5-boilerplate new-site
-  cd new-site
-  npm install
-  npm start
-  ```
-
 ## Features
 
 * A finely-tuned starter template. Reap the benefits of 10 years of analysis,
