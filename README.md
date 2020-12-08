@@ -1,6 +1,6 @@
 ## This software is provided to those looking for a basic HTML5 scaffolding.  It is based on HTML5 boilerplate v8 and Bulma.  All documentation is included.
 
-## Click on "Code" in the top menu, download .zip - and modify!
+## Click on "Code" in the top menu, download .zip - and modify
 
 ## [HTML5 Boilerplate](https://html5boilerplate.com/)
 
